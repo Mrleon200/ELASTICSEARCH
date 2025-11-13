@@ -158,31 +158,28 @@ Project Root
 # 📸 Screenshots
 
 ### 🔍 Search Interface
-
 ```
-
+<img width="1106" height="639" alt="Ảnh chụp màn hình 2025-11-13 224025" src="https://github.com/user-attachments/assets/1602ed29-75b8-4be2-8303-662b895a2fa8" />
 
 ```
 
 ### 📁 Log File Example
-
 ```
-
-
+<img width="1433" height="777" alt="image" src="https://github.com/user-attachments/assets/0fab028a-2f97-41cc-a3f6-b0408ad6f8b2" />
+```
+```
+<img width="1166" height="643" alt="Ảnh chụp màn hình 2025-11-13 224255" src="https://github.com/user-attachments/assets/3bd896aa-8ddd-425b-9ffe-95b755d12e47" />
 ```
 
 ### 📊 Parallel Result Table
 
 ```
-
-
+<img width="1107" height="637" alt="Ảnh chụp màn hình 2025-11-13 225016" src="https://github.com/user-attachments/assets/6e37cb67-f0b7-4935-9563-8d0f3d2d1194" />
 ```
 ```
-
-
+<img width="1658" height="783" alt="Ảnh chụp màn hình 2025-11-13 225200" src="https://github.com/user-attachments/assets/f9dbed7e-1f77-4c24-8b36-476069bdb1b2" />
 ```
 ---
-
 # 📥 Installation
 
 ### **1. Clone the repository**

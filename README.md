@@ -157,30 +157,28 @@ Project Root
 
 # 📸 Screenshots
 
-*(You can upload your images to `/images/` folder on GitHub and update paths below.)*
-
 ### 🔍 Search Interface
 
 ```
-<img width="1106" height="639" alt="image" src="https://github.com/user-attachments/assets/91bdc2af-bb78-4e24-8f8d-bdd8a9ac21a0" />
+
 
 ```
 
 ### 📁 Log File Example
 
 ```
-<img width="1166" height="643" alt="image" src="https://github.com/user-attachments/assets/d7b04217-8169-40fb-a7b9-83440a302fc3" />
+
 
 ```
 
 ### 📊 Parallel Result Table
 
 ```
-<img width="1107" height="637" alt="image" src="https://github.com/user-attachments/assets/3f71727e-ac65-4013-92fc-ecdc2f4a7c6a" />
+
 
 ```
 ```
-<img width="1658" height="783" alt="image" src="https://github.com/user-attachments/assets/87e2d758-939c-4271-8642-8ee24a09f2ac" />
+
 
 ```
 ---
